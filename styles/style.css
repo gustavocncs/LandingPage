@@ -61,7 +61,7 @@ h2{
 }
 
 span{
-    color: rgb(0, 0, 0);
+    color: rgb(11, 186, 230);
 }
 
 p{
@@ -71,7 +71,8 @@ p{
 }
 
 img{
-    width: 580px;
+    width: 550px;
+    color: aqua;
 }
 
 form{   
@@ -83,7 +84,7 @@ form{
 form [type="submit"]{
     height: 50px;
     width: 50%;
-    background-color: rgb(31, 20, 134);
+    background-color: rgb(11, 186, 230);
     color: white;
     font-weight: bold;
 }
