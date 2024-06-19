@@ -29,17 +29,17 @@ a{
 }
 
 a:hover{
-    color: rgb(0, 0, 0);
+    color: rgb(132, 14, 201);
     transition: 0.3s all;
 }
 
-#inscreva-se-btn{
+#cadastro-btn{
     border: 2px solid rgb(132, 14, 201);
     padding: 10px;
     border-radius: 15px;
 }
 
-#inscreva-se-btn:hover{
+#cadastro-btn:hover{
     background-color: rgb(132, 14, 201);
     color: white;
 }
@@ -61,7 +61,7 @@ h2{
 }
 
 span{
-    color: rgb(11, 186, 230);
+    color: rgb(196, 94, 255);
 }
 
 p{
@@ -84,7 +84,7 @@ form{
 form [type="submit"]{
     height: 50px;
     width: 50%;
-    background-color: rgb(11, 186, 230);
+    background-color: rgb(132, 14, 201);
     color: white;
     font-weight: bold;
 }
