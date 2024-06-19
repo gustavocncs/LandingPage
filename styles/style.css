@@ -29,7 +29,7 @@ a{
 }
 
 a:hover{
-    color: rgb(132, 14, 201);
+    color: rgb(0, 0, 0);
     transition: 0.3s all;
 }
 
@@ -61,7 +61,7 @@ h2{
 }
 
 span{
-    color: rgb(132, 14, 201);
+    color: rgb(0, 0, 0);
 }
 
 p{
@@ -74,7 +74,7 @@ img{
     width: 580px;
 }
 
-form{
+form{   
     display: flex;
     flex-direction: column;
     width: 70%;
@@ -83,7 +83,7 @@ form{
 form [type="submit"]{
     height: 50px;
     width: 50%;
-    background-color: rgb(132, 14, 201);
+    background-color: rgb(31, 20, 134);
     color: white;
     font-weight: bold;
 }
